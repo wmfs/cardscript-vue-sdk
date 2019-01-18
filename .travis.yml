@@ -8,7 +8,7 @@ notifications:
 branches:
   only:
     - master
-ci: skip
+script: echo "npm test temporarily disabled"
 install:
   - travis_retry npm install
 #test:
