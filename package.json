@@ -1,17 +1,45 @@
 {
-  "name": "cardscript-vue-sdk",
-  "version": "0.0.6",
+  "name": "@wmfs/cardscript-vue-sdk",
+  "version": "0.0.0-semantically-released",
   "description": "An SDK for using Cardscript with Vue/Vuetify",
   "main": "./lib/index.js",
   "keywords": [
     "tymly",
     "cardscript"
   ],
-  "scripts": {},
-  "author": "Tim Needham",
+  "scripts": {
+    "lint": "standard",
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release"
+  },
+  "author": "West Midlands Fire Service",
   "license": "MIT",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "codecov": "3.1.0",
+    "conventional-changelog-metahub": "2.0.2",
+    "cz-conventional-changelog": "2.1.0",
+    "mocha": "5.2.0",
+    "nyc": "13.1.0",
+    "semantic-release": "15.13.1",
+    "standard": "12.0.1",
+    "@semantic-release/changelog": "3.0.1",
+    "@semantic-release/git": "7.0.6"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmfs/cardscript/tree/master/packages/cardscript-simple-vue"
+    "url": "https://github.com/wmfs/cardscript-simple-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/cardscript-simple-vue/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
