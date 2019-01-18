@@ -3,6 +3,10 @@
   "version": "0.0.6",
   "description": "An SDK for using Cardscript with Vue/Vuetify",
   "main": "./lib/index.js",
+  "keywords": [
+    "tymly",
+    "cardscript"
+  ],
   "scripts": {},
   "author": "Tim Needham",
   "license": "MIT",
