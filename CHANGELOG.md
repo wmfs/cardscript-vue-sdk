@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.0.0...v1.1.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([2fef8cd](https://github.com/wmfs/cardscript-vue-sdk/commit/2fef8cd))
+
 # 1.0.0 (2019-01-18)
 
 
