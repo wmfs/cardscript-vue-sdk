@@ -1,3 +1,15 @@
+## [1.1.1](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.1.0...v1.1.1) (2019-02-26)
+
+
+### 🐛 Bug Fixes
+
+* Update README.md ([110cc70](https://github.com/wmfs/cardscript-vue-sdk/commit/110cc70))
+
+
+### 📦 Code Refactoring
+
+* Rework from ECMAScript module to CommonJS module. ([8848298](https://github.com/wmfs/cardscript-vue-sdk/commit/8848298))
+
 # [1.1.0](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.0.0...v1.1.0) (2019-01-25)
 
 
