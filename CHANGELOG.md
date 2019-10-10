@@ -1,3 +1,33 @@
+# [1.2.0](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.1.1...v1.2.0) (2019-10-10)
+
+
+### ✨ Features
+
+* allow fact set to point to array ([](https://github.com/wmfs/cardscript-vue-sdk/commit/1462be6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([](https://github.com/wmfs/cardscript-vue-sdk/commit/1d7209e))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([](https://github.com/wmfs/cardscript-vue-sdk/commit/d8a4afa))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([](https://github.com/wmfs/cardscript-vue-sdk/commit/8aced4a))
+* **deps-dev:** update dev dependancies ([](https://github.com/wmfs/cardscript-vue-sdk/commit/fa008bd))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([](https://github.com/wmfs/cardscript-vue-sdk/commit/5a3e3ee))
+* **deps-dev:** update semantic-release requirement ([](https://github.com/wmfs/cardscript-vue-sdk/commit/e2a41b5))
+* **deps-dev:** update semantic-release requirement ([](https://github.com/wmfs/cardscript-vue-sdk/commit/8d2d3ab))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge to readme ([](https://github.com/wmfs/cardscript-vue-sdk/commit/a9a4e0f))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([](https://github.com/wmfs/cardscript-vue-sdk/commit/6898820))
+* **circle:** Remove test step ([](https://github.com/wmfs/cardscript-vue-sdk/commit/9be3e21))
+* **travis:** Remove Travis config ([](https://github.com/wmfs/cardscript-vue-sdk/commit/326cb5a))
+
 ## [1.1.1](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.1.0...v1.1.1) (2019-02-26)
 
 
