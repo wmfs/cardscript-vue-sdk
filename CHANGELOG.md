@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.2.0...v1.2.1) (2019-12-16)
+
+
+### 🐛 Bug Fixes
+
+* parse TabSet and Tabs ([](https://github.com/wmfs/cardscript-vue-sdk/commit/1331f3f))
+
 # [1.2.0](https://github.com/wmfs/cardscript-vue-sdk/compare/v1.1.1...v1.2.0) (2019-10-10)
 
 
